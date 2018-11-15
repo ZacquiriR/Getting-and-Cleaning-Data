@@ -1,8 +1,9 @@
 #Codebook
----
+
 ##Identifiers
-*`subID` - The ID of the test subject
-*`actID` - The type of activity performed
+
+* `subID` - The ID of the test subject
+* `actID` - The type of activity performed
 ---
 ##Measrurements
 * `tBodyAccMeanX`
